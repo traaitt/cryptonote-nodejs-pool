@@ -1,6 +1,5 @@
 {
 	"poolHost": "traaittsupply.com",
-
 	"coin": "traaitt",
 	"symbol": "XTE",
 	"coinUnits": 100,
@@ -36,7 +35,7 @@
 			"pattern": "^ETRX",
 			"blockchainExplorer": "https://traaittchain.com/explorer/?hash={id}",
 			"transactionExplorer": "https://traaittchain.com/explorer/?hash={id}",
-			"api": "https://traaittsupply.com/apiMerged1",
+			"api": "https://www.traaittsupply.com/apiMerged1",
 			"enabled": true
                     },
 		{
@@ -50,7 +49,7 @@
 			"pattern": "^TCH",
 			"blockchainExplorer": "https://explorer.traaitt.cash/explorer/?hash={id}",
 			"transactionExplorer": "https://explorer.traaitt.cash/explorer/?hash={id}",
-			"api": "https://traaittsupply.com/apiMerged2",
+			"api": "https://www.traaittsupply.com/apiMerged2",
 			"enabled": true
                     }
     ],
@@ -58,8 +57,8 @@
 		"enabled": true,
 		"mergedMining": true,
 		"clusterForks": 5,
-		"poolAddress": "** Your pool wallet address **",
-		"intAddressPrefix": 1334,
+		"poolAddress": "XT3bahy8H2w1eq4iUDYwxKHmTNMHLf1L11Kv9zHmq6BZS8EPqYXEzL5LmUamgCwsqzgC3EjbyNr5BFMEMXCbxyrA25Db9u9qK",
+		"intAddressPrefix": null,
 		"blockRefreshInterval": 1000,
 		"minerTimeout": 900,
 		"sslCert": "cert.pem",
@@ -146,7 +145,7 @@
 		"enabled": true,
 		"hashrateWindow": 600,
 		"updateInterval": 60,
-		"bindIp": "127.0.0.1",
+		"bindIp": "0.0.0.0",
 		"port": 10008,
 		"blocks": 144,
 		"payments": 144,

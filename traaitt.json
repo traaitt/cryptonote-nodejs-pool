@@ -1,6 +1,5 @@
 {
     "poolHost": "your.pool.host",
-	
     "coin": "traaitt",
     "symbol": "XTE",
     "coinUnits": 100,
@@ -138,9 +137,9 @@
         "hashrateWindow": 600,
         "updateInterval": 5,
         "bindIp": "0.0.0.0",
-        "port": 8117,
-        "blocks": 30,
-        "payments": 30,
+        "port": 10008,
+        "blocks": 144,
+        "payments": 144,
         "password": "your_password",
         "ssl": false,
         "sslPort": 8119,
