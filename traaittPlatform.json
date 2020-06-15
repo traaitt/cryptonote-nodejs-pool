@@ -39,33 +39,33 @@
         "sslCA": "./chain.pem",
         "ports": [
             {
-                "port": 1001,
+                "port": 8001,
                 "difficulty": 5000,
                 "desc": "Low end hardware"
             },
             {
-                "port": 1004,
+                "port": 8004,
                 "difficulty": 15000,
                 "desc": "Mid range hardware"
             },
             {
-                "port": 1007,
+                "port": 8007,
                 "difficulty": 25000,
                 "desc": "High end hardware"
             },
             {
-                "port": 7777,
+                "port": 8777,
                 "difficulty": 500000,
                 "desc": "Cloud-mining / NiceHash"
             },
             {
-                "port": 8888,
+                "port": 18888,
                 "difficulty": 25000,
                 "desc": "Hidden port",
                 "hidden": true
             },
             {
-                "port": 1008,
+                "port": 8008,
                 "difficulty": 20000,
                 "desc": "SSL connection",
                 "ssl": true
