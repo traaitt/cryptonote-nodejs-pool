@@ -59,7 +59,7 @@
 		"mergedMining": true,
 		"clusterForks": 5,
 		"poolAddress": "** Your pool wallet address **",
-		"intAddressPrefix": 1141703,
+		"intAddressPrefix": 1334,
 		"blockRefreshInterval": 1000,
 		"minerTimeout": 900,
 		"sslCert": "cert.pem",
@@ -147,9 +147,9 @@
 		"hashrateWindow": 600,
 		"updateInterval": 60,
 		"bindIp": "127.0.0.1",
-		"port": 8217,
-		"blocks": 30,
-		"payments": 30,
+		"port": 10008,
+		"blocks": 144,
+		"payments": 144,
 		"password": "password",
 		"ssl": false,
 		"sslPort": 8119,
@@ -161,16 +161,16 @@
 
 	"daemon": {
 		"host": "127.0.0.1",
-		"port": 19994
+		"port": 14478
 	},
 
 	"wallet": {
-		"host": "1.2.3.4",
-		"port": 19996
+		"host": "127.0.0.1",
+		"port": 8447
 	},
 
 	"redis": {
-		"host": "1.2.3.4",
+		"host": "127.0.0.1",
 		"port": 6379,
 		"auth": null,
 		"db": 10,
