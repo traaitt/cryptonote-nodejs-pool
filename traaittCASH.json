@@ -31,7 +31,7 @@
         "enabled": true,
 	"mergedMining": true,
         "clusterForks": "auto",
-        "poolAddress": "** Your pool wallet address **",
+        "poolAddress": "cashLxbXCpXQE7rLGgr43m7WT4QZprajQDho8yVzp6DXYEtW4wZMwsSCxuUXNgPtZdJiMKjCmMwmA6z2DQnMwV9SALb658RV8R",
         "intAddressPrefix": null,
         "blockRefreshInterval": 600,
         "minerTimeout": 600,
