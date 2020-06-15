@@ -26,12 +26,12 @@
 		}
 	},
 	"childPools": [{
-			"poolAddress": "** Your pool wallet address **",
+			"poolAddress": "iETRXwwfofpQwxqeC2SZ3xT5owiEJLuJbihjdyk3FaWU1UgicLAy33P4JRpJDGqZN82wQ2MqNCtTbcEtZ99nm9pxKfDgYRsXyad4M",
 			"intAddressPrefix": null,
 			"coin": "traaittPlatform",
 			"childDaemon": {
-				"host": "1.2.3.4",
-				"port": 23896
+				"host": "127.0.0.1",
+				"port": 24496
 			},
 			"pattern": "^ETRX",
 			"blockchainExplorer": "https://traaittchain.com/explorer/?hash={id}",
@@ -40,11 +40,11 @@
 			"enabled": true
                     },
 		{
-			"poolAddress": "** Your pool wallet address **",
+			"poolAddress": "cashLxbXCpXQE7rLGgr43m7WT4QZprajQDho8yVzp6DXYEtW4wZMwsSCxuUXNgPtZdJiMKjCmMwmA6z2DQnMwV9SALb658RV8R",
 			"intAddressPrefix": null,
 			"coin": "traaittCASH",
 			"childDaemon": {
-				"host": "1.2.3.45",
+				"host": "127.0.0.1",
 				"port": 4
 			},
 			"pattern": "^TCH",
