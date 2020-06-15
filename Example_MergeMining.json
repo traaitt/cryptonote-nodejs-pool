@@ -45,7 +45,7 @@
 			"coin": "traaittCASH",
 			"childDaemon": {
 				"host": "127.0.0.1",
-				"port": 4
+				"port": 14486
 			},
 			"pattern": "^TCH",
 			"blockchainExplorer": "https://explorer.traaitt.cash/explorer/?hash={id}",
