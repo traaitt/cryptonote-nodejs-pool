@@ -1,5 +1,5 @@
-var api = "https://multi-miner.smartcoinpool.net:8119";
-let parentCoin = "Arqma"
+var api = "https://traaittsupply.com/apimerged";
+let parentCoin = "traaitt"
 
 var email = "support@poolhost.com";
 var telegram = "https://t.me/YourPool";
