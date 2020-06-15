@@ -44,28 +44,28 @@
                 "desc": "Low end hardware"
             },
             {
-                "port": 1014,
+                "port": 1004,
                 "difficulty": 15000,
                 "desc": "Mid range hardware"
             },
             {
-                "port": 1017,
+                "port": 1007,
                 "difficulty": 25000,
                 "desc": "High end hardware"
             },
             {
-                "port": 1717,
+                "port": 7777,
                 "difficulty": 500000,
                 "desc": "Cloud-mining / NiceHash"
             },
             {
-                "port": 1818,
+                "port": 8888,
                 "difficulty": 25000,
                 "desc": "Hidden port",
                 "hidden": true
             },
             {
-                "port": 1018,
+                "port": 1008,
                 "difficulty": 20000,
                 "desc": "SSL connection",
                 "ssl": true
