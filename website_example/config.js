@@ -1,4 +1,4 @@
-var api = "https://traaittsupply.com/apimerged";
+var api = "https://wwwtraaittsupply.com/apimerged";
 let parentCoin = "traaitt"
 
 var email = "support@poolhost.com";
