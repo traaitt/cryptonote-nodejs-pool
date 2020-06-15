@@ -29,7 +29,7 @@
     "childPools": null,
     "poolServer": {
         "enabled": true,
-	"mergedMining": false,
+	"mergedMining": true,
         "clusterForks": "auto",
         "poolAddress": "** Your pool wallet address **",
         "intAddressPrefix": null,
