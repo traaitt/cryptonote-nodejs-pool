@@ -9,7 +9,7 @@
     "transactionExplorer": "https://explorer.traaitt.cash/?hash={id}",
 
     "daemonType": "bytecoin",
-    "cnAlgorithm": "chukwa",
+    "cnAlgorithm": "argon2",
     "cnVariant": 2,
     "cnBlobType": 2,
 
@@ -39,33 +39,33 @@
         "sslCA": "./chain.pem",
         "ports": [
             {
-                "port": 7001,
+                "port": 1001,
                 "difficulty": 5000,
                 "desc": "Low end hardware"
             },
             {
-                "port": 7004,
+                "port": 1004,
                 "difficulty": 15000,
                 "desc": "Mid range hardware"
             },
             {
-                "port": 7007,
+                "port": 1007,
                 "difficulty": 25000,
                 "desc": "High end hardware"
             },
             {
-                "port": 4777,
+                "port": 7777,
                 "difficulty": 500000,
                 "desc": "Cloud-mining / NiceHash"
             },
             {
-                "port": 4888,
+                "port": 8888,
                 "difficulty": 25000,
                 "desc": "Hidden port",
                 "hidden": true
             },
             {
-                "port": 7008,
+                "port": 1008,
                 "difficulty": 20000,
                 "desc": "SSL connection",
                 "ssl": true

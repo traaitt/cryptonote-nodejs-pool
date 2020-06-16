@@ -9,7 +9,7 @@
     "transactionExplorer": "https://traaitt.com/explorer/?hash={id}",
 
     "daemonType": "bytecoin",
-    "cnAlgorithm": "chukwa",
+    "cnAlgorithm": "argon2",
     "cnVariant": 2,
     "cnBlobType": 2,
 
