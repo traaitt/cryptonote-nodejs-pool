@@ -39,17 +39,17 @@
         "sslCA": "./chain.pem",
         "ports": [
             {
-                "port": 1001,
+                "port": 3333,
                 "difficulty": 5000,
                 "desc": "Low end hardware"
             },
             {
-                "port": 1004,
+                "port": 4444,
                 "difficulty": 15000,
                 "desc": "Mid range hardware"
             },
             {
-                "port": 1007,
+                "port": 5555,
                 "difficulty": 25000,
                 "desc": "High end hardware"
             },
@@ -65,7 +65,7 @@
                 "hidden": true
             },
             {
-                "port": 1008,
+                "port": 9999,
                 "difficulty": 20000,
                 "desc": "SSL connection",
                 "ssl": true
