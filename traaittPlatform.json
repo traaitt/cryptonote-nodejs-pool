@@ -31,7 +31,7 @@
 	"mergedMining": true,
         "clusterForks": "auto",
         "poolAddress": "iETRXwwfofpQwxqeC2SZ3xT5owiEJLuJbihjdyk3FaWU1UgicLAy33P4JRpJDGqZN82wQ2MqNCtTbcEtZ99nm9pxKfDgYRsXyad4M",
-        "intAddressPrefix": null,
+        "intAddressPrefix": "461586806",
         "blockRefreshInterval": 600,
         "minerTimeout": 600,
         "sslCert": "./cert.pem",

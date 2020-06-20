@@ -1,5 +1,5 @@
 {
-    "poolHost": "your.pool.host",
+    "poolHost": "traaittsupply.com",
 	
     "coin": "traaitt",
     "symbol": "XTE",
@@ -10,7 +10,7 @@
     "transactionExplorer": "https://traaitt.com/explorer/?hash={id}",
 
     "daemonType": "bytecoin",
-    "cnAlgorithm": "chukwa",
+    "cnAlgorithm": "argon2",
     "cnVariant": 2,
     "cnBlobType": 2,
 
@@ -29,9 +29,9 @@
     "childPools": null,
     "poolServer": {
         "enabled": true,
-	"mergedMining": true,
+	"mergedMining": false,
         "clusterForks": "auto",
-        "poolAddress": "** Your pool wallet address **",
+        "poolAddress": "XT3bahy8H2w1eq4iUDYwxKHmTNMHLf1L11Kv9zHmq6BZS8EPqYXEzL5LmUamgCwsqzgC3EjbyNr5BFMEMXCbxyrA25Db9u9qK",
         "intAddressPrefix": null,
         "blockRefreshInterval": 600,
         "minerTimeout": 600,
@@ -138,7 +138,7 @@
         "hashrateWindow": 600,
         "updateInterval": 5,
         "bindIp": "0.0.0.0",
-        "port": 10008,
+        "port": 8437,
         "blocks": 30,
         "payments": 30,
         "password": "your_password",
@@ -225,7 +225,6 @@
             "domain": "mg.yourdomain"
         }
     },
-
     "telegram": {
         "enabled": false,
         "token": "",
